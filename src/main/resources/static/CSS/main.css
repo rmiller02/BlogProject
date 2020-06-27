@@ -1,0 +1,16 @@
+html {
+    background-color: rgb(2, 13, 34);
+    padding: 0.5em 1 em;
+}
+
+h1 {
+    font-style: italic;
+    color: rgba(247, 107, 14, 0.918);
+}
+
+p{
+    font-weight: bolder;
+    color: rgb(49, 62, 245);
+}
+
+ 
